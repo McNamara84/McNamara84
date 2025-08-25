@@ -55,3 +55,12 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+
+---
+
+## 🌟 Strengths
+
+- ✅ Resilience & reliability
+- ✅ Team player with strong communication
+- ✅ Agile project management mindset
+- ✅ Flexibility & dedication
