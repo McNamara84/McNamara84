@@ -34,6 +34,8 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 **Frameworks & Libraries**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-36648B?style=flat&logo=php&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 **Databases**  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
