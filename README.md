@@ -32,7 +32,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -40,6 +40,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-36648B?style=flat&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 **Databases**  
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
