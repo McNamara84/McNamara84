@@ -56,11 +56,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-## 🌟 Strengths
-
-- ✅ Resilience & reliability
-- ✅ Team player with strong communication
-- ✅ Agile project management mindset
-- ✅ Flexibility & dedication
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McNamara84&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McNamara84&layout=compact&theme=tokyonight)
