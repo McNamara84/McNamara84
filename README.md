@@ -64,3 +64,8 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+
+**Standards & Schemas**  
+![DataCite 3.x](https://img.shields.io/badge/DataCite-3.x-3498DB?style=flat&logo=doi&logoColor=white)
+![DataCite 4.x](https://img.shields.io/badge/DataCite-4.x-2980B9?style=flat&logo=doi&logoColor=white)
+![ISO 19139](https://img.shields.io/badge/ISO-19139-1E8449?style=flat&logo=iso&logoColor=white)
