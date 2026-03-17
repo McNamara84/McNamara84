@@ -9,7 +9,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ## 🚀 About Me
 
 - 💼 Currently employed as a **Full Stack Developer** in **Research Data Management** at GFZ
-- 🎓 Studying **Information and Data Management (B.A.)** at the University of Applied Sciences Potsdam (expected graduation: early 2026)
+- 🎓 Currently studying the Master's program **Digital Information Management** at the University of Applied Sciences Potsdam
 - 🛠 Skilled in building modern web applications, backend systems, and data-driven solutions
 - 🌍 Based in Germany, open to international collaborations and exciting projects
 
@@ -25,6 +25,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -37,10 +38,12 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-36648B?style=flat&logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
