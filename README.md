@@ -64,6 +64,7 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![OpenProject](https://img.shields.io/badge/OpenProject-0770B8?style=flat&logo=openproject&logoColor=white)
 
 **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
