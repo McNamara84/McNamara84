@@ -74,4 +74,5 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 **Standards & Schemas**  
 ![DataCite 3.x](https://img.shields.io/badge/DataCite-3.x-3498DB?style=flat&logo=doi&logoColor=white)
 ![DataCite 4.x](https://img.shields.io/badge/DataCite-4.x-2980B9?style=flat&logo=doi&logoColor=white)
+![DCAT-AP](https://img.shields.io/badge/DCAT--AP-005A9C?style=flat)
 ![ISO 19139](https://img.shields.io/badge/ISO-19139-1E8449?style=flat&logo=iso&logoColor=white)
