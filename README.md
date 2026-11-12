@@ -8,7 +8,8 @@ My main focus is on **Research Data Management (RDM)**, where I design and devel
 
 ## 🚀 About Me
 
-- 💼 Currently employed as a **Full Stack Developer** in **Research Data Management** at GFZ
+- 💼 Currently employed as a **Full Stack Developer** in **Research Data Management** at GFZ Helmholtz Centre for Geosciences
+- 🔎 Open to work on new exciting projects from **2027** onwards
 - 🎓 Currently studying the Master's program **Digital Information Management** at the University of Applied Sciences Potsdam
 - 🛠 Skilled in building modern web applications, backend systems, and data-driven solutions
 - 🌍 Based in Germany, open to international collaborations and exciting projects
